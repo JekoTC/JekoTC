@@ -1,9 +1,9 @@
 - 👋 Stupid at java :))
 - 📫 typical#0001 
 
-###- 🔭 I’m currently working on 2B4S Minecraft Server
-###- 🌱 I’m currently learning Java
-###- 🤔 I’m looking for help with nothing
+- 🔭 I’m currently working on 2B4S Minecraft Server
+- 🌱 I’m currently learning Java
+- 🤔 I’m looking for help with nothing
 
 
 ### Stats
