@@ -1,5 +1,5 @@
 - 👋 Stupid at java :))
-- 📫 typical#0001 
+- 📫 Jeko#9847
 
 - 🔭 I’m currently working on 2B4S Minecraft Server
 - 🌱 I’m currently learning Java
