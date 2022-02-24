@@ -2,7 +2,7 @@
 - 📫 Jeko#9847
 
 - 🔭 Founder of OopsMC and 2B4S
-- 🌱 I’m know Java,PHP,HTML,Javascript
+- 🌱 I’m know Java,PHP,HTML,Javascript,Python
 - 🤔 I’m looking for help with nothing
 
 
