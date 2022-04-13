@@ -1,10 +1,13 @@
 ### Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=nat2k15&label=Views&color=blue&style=plastic)
-- 👋 Stupid at java :))
-- 📫 Jeko#0001
 
-- 🔭 Founder of OopsMC and 2B4S
-- 🌱 I’m know Java,PHP,HTML,Javascript,Python
-- 🤔 I’m looking for help with nothing
+ Stanford planning to pursue datacenter engineering when I'm older @ I'm a passionate learner who's always willing to learn and work across technologies and coding assigments. I'm a passionate learner who's always willing to learn and work across technologies and coding assigments. I love to explore new technologies and leverage them to solve real-life problems
+ 
+ ###Contacts📫
+Discord: Jeko#0001
+
+- 🔭 Founder of OopsMC Network
+- 🌱 I like programming languages like HTML, CSS, Php, Java, JavaScript, Python, C++, C#, Lua and now I'm learning it
+- 🤔 I’m looking for someone help me
 
 
 ### Stats
