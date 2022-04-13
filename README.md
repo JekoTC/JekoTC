@@ -1,5 +1,6 @@
+### Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=nat2k15&label=Views&color=blue&style=plastic)
 - 👋 Stupid at java :))
-- 📫 Jeko#9847
+- 📫 Jeko#0001
 
 - 🔭 Founder of OopsMC and 2B4S
 - 🌱 I’m know Java,PHP,HTML,Javascript,Python
