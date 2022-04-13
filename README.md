@@ -6,7 +6,7 @@
 - Discord: Jeko#0001
 
 ### About me
-- 🔭 Founder of OopsMC Network
+- 🔭 Founder of OopsMC Network (A Minecraft Server)
 - 🌱 I like programming languages like HTML, CSS, Php, Java, JavaScript, Python, C++, C#, Lua and now I'm learning it
 - 🤔 I’m looking for someone help me
 
