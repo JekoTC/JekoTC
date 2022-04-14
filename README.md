@@ -4,6 +4,7 @@
  
  ### Contacts 📫
 - Discord: Jeko#0001
+- Email: jeko@oopsmc.net
 
 ### About me
 - 🔭 Founder of OopsMC Network (A Minecraft Server)
