@@ -1,4 +1,4 @@
-### Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=nat2k15&label=Views&color=blue&style=plastic)
+### Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=JekoTC&label=Views&color=blue&style=plastic)
 
  Stanford planning to pursue datacenter engineering when I'm older @ I'm a passionate learner who's always willing to learn and work across technologies and coding assigments. I'm a passionate learner who's always willing to learn and work across technologies and coding assigments. I love to explore new technologies and leverage them to solve real-life problems
  
